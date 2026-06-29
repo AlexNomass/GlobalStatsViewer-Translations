@@ -22,6 +22,7 @@
   "profile-picture": "PROFILE PICTURE",
   "profile-picture-description": "Updates your avatar from Discord.",
   "profile-picture-refresh-info": "This will briefly re-open Discord's login & confirmation screen, then bring you back here.",
+  "refresh": "Refresh",
   "add-social-links": "ADD SOCIAL LINKS",
   "add-social-links-description": "Add links to your social media.",
   "geolocation": "GEOLOCATION",

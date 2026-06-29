@@ -8,5 +8,6 @@
     "login-successful": "Login Successful",
     "successfully-authenticated": "You have been successfully authenticated.",
     "authentication-failed": "Authentication Failed",
-    "login-error": "An error occurred during login. Please try logging in again."
+    "login-error": "An error occurred during login. Please try logging in again.",
+    "profile-picture-refreshed": "Successfully updated profile!"
 }
