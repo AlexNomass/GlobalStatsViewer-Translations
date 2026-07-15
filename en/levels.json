@@ -48,7 +48,7 @@
     "op-eq": "Equal To",
     "op-neq": "Not Equal To",
     "search-for-any-level": "Search for Geometry Dash levels with Global Stats Viewer.",
-    "search-description": "Search by level name or exact ID, then narrow it down with gamemode, rating, special types, showcases, and list filters.",
+    "search-description": "Search by level name or exact ID, then narrow it down with gamemode, rating, collection, showcases, and list filters.",
     "search-placeholder": "Search by level name or ID",
     "gamemode": "Gamemode",
     "rating": "Rating",
@@ -67,8 +67,9 @@
     "try-broadening-search": "Try broadening the search, clearing a filter, or toggling off list/showcase-only mode.",
     "length": "Length",
     "select-length": "Select Length",
+    "meta": "Meta",
     "sheet-tiers": "Sheet Tiers",
     "level-conditions": "Level Conditions",
-    "level-conditions-description": "Filter levels using custom stats parameters.",
+    "level-conditions-desc": "Filter levels using custom stats parameters.",
     "add-condition": "Add Condition"
 }
