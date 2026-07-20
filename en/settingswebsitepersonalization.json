@@ -1,5 +1,11 @@
 {
     "website-personalization": "WEBSITE PERSONALIZATION",
     "theme-color": "Theme Color",
-    "choose-theme-color": "Choose your favorite theme color."
+    "choose-theme-color": "Choose your favorite theme color.",
+    "disable-avatar-decoration": "Disable Avatar Decoration",
+    "disable-avatar-decoration-desc": "Hide the Discord decoration that surrounds profile pictures.",
+    "disable-level-thumbnails": "Disable Level Thumbnails",
+    "disable-level-thumbnails-desc": "Show a plain fallback instead of loading level thumbnail images.",
+    "disable-animated-fires": "Disable Animated Fires",
+    "disable-animated-fires-desc": "Use static difficulty rarity icons instead of their animated versions."
 }

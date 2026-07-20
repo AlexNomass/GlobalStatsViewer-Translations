@@ -21,9 +21,12 @@
     "rating-date": "Rating Date",
     "rating-date-not-stored": "Rating date not stored",
     "unknown": "Unknown",
+    "unknown-artist": "Unknown Artist",
     "no-showcase-url-stored": "No showcase URL stored",
     "no-list-placements-stored": "No list placements stored",
     "music": "Music",
+    "song": "Song",
+    "song-unavailable": "Song unavailable",
     "song-name": "Song Name(s)",
     "song-name-not-stored": "Song names are not stored for this level",
     "song-creator": "Song Creator(s)",
@@ -32,6 +35,7 @@
     "song-id-not-stored": "No song IDs stored",
     "notes": "Notes",
     "no-notes-stored": "No notes are stored for this level yet.",
+    "special": "Special",
     "special-status": "Special Status",
     "daily-level": "Daily Level",
     "weekly-demon": "Weekly Demon",
@@ -42,5 +46,10 @@
     "yes": "Yes",
     "no": "No",
     "coins-verified": "verified",
-    "coins-not-verified": "not verified"
+    "coins-not-verified": "not verified",
+    "nothing-here": "Nothing to see here...",
+    "meta": "Meta",
+    "difficulty": "Difficulty",
+    "object-count": "Object Count",
+    "more": "More"
 }

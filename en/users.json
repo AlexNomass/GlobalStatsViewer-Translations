@@ -1,6 +1,8 @@
 {
   "title": "Users",
   "search-by": "Search By",
+  "search-placeholder": "Search by",
+  "search-description": "Search by selected conditions, statistics, completions, or any combination of the these.",
   "query": "Query",
   "query-placeholder": "Enter search term...",
   "search": "Search",
