@@ -11,6 +11,7 @@
     "epic": "Epic",
     "legendary": "Legendary",
     "mythic": "Mythic",
+    "difficulty": "Difficulty",
     "all-difficulties": "All Difficulties",
     "auto": "Auto",
     "easy": "Easy",
@@ -69,8 +70,13 @@
     "length": "Length",
     "select-length": "Select Length",
     "meta": "Meta",
-    "sheet-tiers": "Sheet Tiers",
+    "sheet-tier": "Sheet Tier",
+    "gddl-tier": "GDDL Tier",
+    "coins": "Coins",
     "level-conditions": "Level Conditions",
     "level-conditions-desc": "Filter levels using custom stats parameters.",
-    "add-condition": "Add Condition"
+    "add-condition": "Add Condition",
+    "completed-only": "Completed Only",
+    "uncompleted-only": "Uncompleted Only",
+    "completion": "Completion"
 }
