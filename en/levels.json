@@ -78,5 +78,8 @@
     "add-condition": "Add Condition",
     "completed-only": "Completed Only",
     "uncompleted-only": "Uncompleted Only",
-    "completed": "Completed"
+    "completed": "Completed",
+    "descending": "Descending",
+    "ascending": "Ascending",
+    "levels-search": "Levels Search"
 }
