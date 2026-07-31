@@ -34,5 +34,9 @@
   "subdivision-placeholder": "Select a subdivision",
   "loading": "Loading...",
   "color-picker": "COLOR PICKER",
-  "hex": "HEX"
+  "hex": "HEX",
+  "favorite-levels": "FAVORITE LEVELS",
+  "favorite-levels-description": "Set your favorite level to appear on your profile. You can do this for both classic and platformer.",
+  "always-choose-hardest": "Always choose hardest",
+  "search-levels": "Search levels"
 }
