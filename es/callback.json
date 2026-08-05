@@ -1,13 +1,13 @@
 {
-    "authenticating": "Authenticating",
-    "validating-login": "Validating login...",
-    "account-created": "Account Created",
-    "welcome-to-gsv": "Welcome to Global Stats Viewer",
-    "account-created-merged": "Account Created & Merged",
-    "welcome-back": "Welcome back to Global Stats Viewer",
-    "login-successful": "Login Successful",
-    "successfully-authenticated": "You have been successfully authenticated.",
-    "authentication-failed": "Authentication Failed",
-    "login-error": "An error occurred during login. Please try logging in again.",
-    "profile-picture-refreshed": "Successfully updated profile!"
+    "authenticating": "Autenticando",
+    "validating-login": "Validando el inicio de sesion...",
+    "account-created": "Cuenta Creada",
+    "welcome-to-gsv": "Bienvenido a la Global Stats Viewer",
+    "account-created-merged": "Cuenta Creada y Combinada",
+    "welcome-back": "Bienvenido devuelta a la Global Stats Viewer",
+    "login-successful": "Inicio de sesion exitosa",
+    "successfully-authenticated": "Se ha completado con exito su autenticacion.",
+    "authentication-failed": "ha fallado la autenticacion",
+    "login-error": "ha ocurrido un error en el inicio de sesion, vuelve a intentarlo.",
+    "profile-picture-refreshed": "¡El perfil ha sido actualizado correctamente!"
 }
