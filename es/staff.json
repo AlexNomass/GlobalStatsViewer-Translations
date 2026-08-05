@@ -1,0 +1,21 @@
+{
+    "hello": "Hello",
+    "overview": "Overview",
+    "welcome-staff": "Welcome to Global Stats Viewer's staff panel! Here you can find various options to manage the website depending on the roles assigned to you.",
+    "your-roles": "Your Roles",
+    "manage-flags": "Manage Flags",
+    "watchdog-manage-1": "Manage flags raised by",
+    "watchdog": "Watchdog",
+    "watchdog-manage-2": "Most of these are probably false positives, but you are invited to look at the user's profile and decide whether the data looks legitimate or not. For flags regarding levels that are deemed \"too suspicious\" or \"too hard\", you can whitelist the user if they have linked sources that allow you to think the user is legitimate.",
+    "flags": "Flags",
+    "status": "Status",
+    "unresolved": "Unresolved",
+    "resolved": "Resolved",
+    "loading": "Loading...",
+    "flag-id": "Flag ID",
+    "acc-id": "Acc. ID",
+    "reason": "Reason",
+    "date": "Date",
+    "open-profile": "Open Profile",
+    "full-log": "Full Log"
+}

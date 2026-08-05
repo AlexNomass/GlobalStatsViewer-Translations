@@ -1,0 +1,7 @@
+{
+    "refresh-completions": "REFRESH COMPLETIONS",
+    "refresh-completions-description-1": "Gathers data from sources you linked and applies it to your profile. You can link multiple sources in",
+    "settings": "settings",
+    "refresh-completions-description-2": "for Global Stats Viewer to fetch your completions from.",
+    "current-sources": "CURRENT SOURCES"
+}

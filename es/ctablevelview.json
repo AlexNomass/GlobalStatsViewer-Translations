@@ -1,0 +1,11 @@
+{
+    "successfully-updated-completion": "Successfully updated completion!",
+    "attempts": "ATTEMPTS",
+    "attempts-description": "How many attempts it took you to complete the level on your first completion?",
+    "worst-fail": "WORST FAIL",
+    "worst-fail-description": "Furthest death before your first completion",
+    "enjoyment-rating": "ENJOYMENT RATING",
+    "enjoyment-rating-description": "How much you enjoyed the level out of 100",
+    "notes": "NOTES",
+    "notes-description": "Whatever you want to say about the level!"
+}

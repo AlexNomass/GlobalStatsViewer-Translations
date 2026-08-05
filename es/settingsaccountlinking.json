@@ -1,0 +1,8 @@
+{
+    "account-linking": "ACCOUNT LINKING",
+    "account-linking-info": "In order to retrieve data for your profile, you need to link accounts from other projects you registered to. You also need to link your Geometry Dash account to get your stats on the site.",
+    "account-not-found-1": "Your Geometry Dash account was not found in our database. Global Stats Viewer uses",
+    "updated-leaderboard": "Updated Leaderboard",
+    "account-not-found-2": "as a way to retrieve data from GD Servers. If you never registered on UL, or do not know what any of this means, please look at",
+    "link-gd-account": "how to link your Geometry Dash account."
+}
