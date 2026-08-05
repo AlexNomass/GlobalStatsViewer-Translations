@@ -1,7 +1,7 @@
 {
-    "loading": "Loading...",
-    "linked": "Linked",
-    "not-linked": "Not Linked",
-    "linking": "Linking...",
+    "loading": "Cargando...",
+    "linked": "Vinculado",
+    "not-linked": "Sin Vincular",
+    "linking": "Vinculando...",
     "link": "LINK"
 }
