@@ -1,12 +1,12 @@
 {
-  "country-label": "COUNTRY",
-  "country-placeholder": "Select a country",
-  "countries-loading": "Loading countries...",
-  "countries-search-placeholder": "Search country by name",
-  "countries-empty": "No countries found.",
+  "country-label": "PAIS",
+  "country-placeholder": "Selecciona un pais",
+  "countries-loading": "Cargando paises...",
+  "countries-search-placeholder": "Selecciona un pais por nombre",
+  "countries-empty": "No se ha encontrado el pais.",
   "subdivision-label": "SUBDIVISION",
-  "subdivision-placeholder": "Select a subdivision",
-  "subdivisions-loading": "Loading subdivisions...",
-  "subdivisions-search-placeholder": "Search subdivision by name",
-  "subdivisions-empty": "No subdivisions found."
+  "subdivision-placeholder": "Selecciona una subdivision",
+  "subdivisions-loading": "Cargando subdivisiones...",
+  "subdivisions-search-placeholder": "Buscar una subdivision por nombre",
+  "subdivisions-empty": "No se ha encontrado la subdivision."
 }
