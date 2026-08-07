@@ -1,11 +1,11 @@
 {
-    "successfully-updated-completion": "Successfully updated completion!",
-    "attempts": "ATTEMPTS",
-    "attempts-description": "How many attempts it took you to complete the level on your first completion?",
-    "worst-fail": "WORST FAIL",
-    "worst-fail-description": "Furthest death before your first completion",
-    "enjoyment-rating": "ENJOYMENT RATING",
-    "enjoyment-rating-description": "How much you enjoyed the level out of 100",
-    "notes": "NOTES",
-    "notes-description": "Whatever you want to say about the level!"
+    "successfully-updated-completion": "¡Completion actualizada correctamente!",
+    "attempts": "INTENTOS",
+    "attempts-description": "¿Cuántos intentos te tomó completar el nivel la primera vez que lo pasaste?",
+    "worst-fail": "PEOR FALLO",
+    "worst-fail-description": "La muerte más lejana antes de tu primera completion",
+    "enjoyment-rating": "RATING DEL ENJOYMENT",
+    "enjoyment-rating-description": "¿Qué tanto disfrutastes el nivel, en una escala del 1 al 100?",
+    "notes": "NOTAS",
+    "notes-description": "¡Lo que quieras decir sobre el nivel!"
 }
