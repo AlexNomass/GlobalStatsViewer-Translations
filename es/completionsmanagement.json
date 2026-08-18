@@ -1,10 +1,10 @@
 {
-    "refresh-completions-description": "If you're linked to any account (GD, AREDL, Pointercrate), you can use this button to fetch your completions across your different platforms.",
-    "refresh-completions-warning": "You can only refresh once per hour",
-    "add-completion-data-1": "Once your completions have been fetched, you can append data to them.",
-    "add-completion-data-2": "For youtube links, those are fetched automatically and cannot be changed. You can request a modification by contacting staff.",
-    "generate-spreadsheet": "And if you want to, you can generate a spreadsheet of your completions!",
-    "update-gd-stats-description": "To get your GD stats updated on the site, you need to run /profile with the UL bot in #⁠bot-commands to send your new GD Stats to Updated Leaderboards. Then wait for the notification on the site (it should appear in an hour to a day). After this, you can click on \"Sync completions\" to display your new GD stats in your profile.",
-    "section-refresh-completions": "Refresh Completions",
-    "section-update-gd-stats": "Update GD Stats"
+    "refresh-completions-description": "Si tienes una cuenta vinculada (GD, AREDL, Pointercrate), puedes usar este botón para recuperar tus logros de todas tus plataformas.",
+    "refresh-completions-warning": "Solo puedes refrescar una vez por hora",
+    "add-completion-data-1": "Una vez que se hayan recuperado tus completions puedes agregarles datos.",
+    "add-completion-data-2": "Los enlaces de YouTube se obtienen automáticamente y no se pueden modificar. Puedes solicitar una modificación comunicándote con el staff.",
+    "generate-spreadsheet": "¡Y si quieres, puedes generar una spreadsheet con tus logros!",
+    "update-gd-stats-description": "Para actualizar tus estadísticas de GD en el sitio, debes ejecutar el comando /profile con el bot UL en el canal #⁠bot-commands para enviar tus nuevas estadísticas de GD a las leaderboards actualizadas. Luego, espera a recibir la notificación en el sitio (debería aparecer en un plazo de una hora a un día). Después de esto, puedes hacer clic en «Sincronizar logros» para que aparezcan tus nuevas estadísticas de GD en tu perfil.",
+    "section-refresh-completions": "Refrescar completions",
+    "section-update-gd-stats": "Actualizar stats de GD"
 }
