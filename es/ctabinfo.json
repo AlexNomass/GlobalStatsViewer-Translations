@@ -1,9 +1,9 @@
 {
-    "empty-data": "No data",
-    "incomplete-data": "Incomplete Data",
+    "empty-data": "Sin Datos",
+    "incomplete-data": "Datos Incompletos",
     "all-set": "All Set",
-    "info-level": "Info Level",
-    "gamemode": "Gamemode",
-    "difficulty": "Difficulty",
-    "no-completions": "Looks like you do not have any completions... Link sources in settings and click the refresh button!"
+    "info-level": "Informacion del nivel",
+    "gamemode": "Modos de juego",
+    "difficulty": "Dificultad",
+    "no-completions": "Parece que no tienes ninguna completion... ¡Agrega los links en la configuración y haz click en el botón de actualizar"
 }
