@@ -1,7 +1,7 @@
 {
-    "loading": "Loading...",
-    "linked": "Linked",
-    "not-linked": "Not Linked",
-    "linking": "Linking...",
+    "loading": "Cargando...",
+    "linked": "Linkeado",
+    "not-linked": "Sin Linkear",
+    "linking": "Linkeando...",
     "link": "LINK"
 }
