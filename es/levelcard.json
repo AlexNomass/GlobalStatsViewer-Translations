@@ -1,11 +1,11 @@
 {
-    "by": "by",
-    "complete": "Complete",
-    "no-notes": "No additional notes are currently stored for this level.",
+    "by": "Por",
+    "complete": "Completado",
+    "no-notes": "Actualmente no hay notas adicionales guardadas para este nivel.",
     "showcase": "Showcase",
-    "yes": "Yes",
+    "yes": "Si",
     "no": "No",
-    "length": "Length",
-    "unknown": "Unknown",
-    "list": "List"
+    "length": "Duracion",
+    "unknown": "Desconocido",
+    "list": "Lista"
 }
