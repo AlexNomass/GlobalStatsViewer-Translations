@@ -1,8 +1,8 @@
 {
-    "discord-roles": "Discord Roles",
-    "your-roles": "Your Roles",
-    "drag-roles-here": "Drag roles here to assign them",
-    "available-roles": "Available Roles",
-    "locked-roles": "Locked Roles",
-    "save": "Save"
+    "discord-roles": "Roles de discord",
+    "your-roles": "Tus Roles",
+    "drag-roles-here": "Arrastra los roles hasta aquí para asignarlos",
+    "available-roles": "Roles disponibles",
+    "locked-roles": "Roles bloqueados",
+    "save": "Guardar"
 }
