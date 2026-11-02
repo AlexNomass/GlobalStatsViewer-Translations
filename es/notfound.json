@@ -1,6 +1,6 @@
 {
-    "not-found": "Not Found.",
-    "content-not-found": "The content requested in this page doesn't exist in any way, shape or form.",
-    "add-player": "If you want to add a player/adjective to this list, ping a developer",
-    "here": "here"
+    "not-found": "No se encontro.",
+    "content-not-found": "El contenido solicitado en esta página no existe de ninguna manera, forma ni modo.",
+    "add-player": "Si quieres agregar un jugador o un adjetivo a esta lista, avísale a un desarrollador",
+    "here": "Aqui"
 }
